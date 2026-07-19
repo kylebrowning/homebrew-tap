@@ -1,8 +1,8 @@
 class Ble < Formula
   desc "Bluetooth LE CLI for macOS: scan, connect, pair, read, write, inspect, L2CAP"
   homepage "https://github.com/kylebrowning/BLESwiftCLI"
-  url "https://github.com/kylebrowning/BLESwiftCLI/archive/refs/tags/1.0.0.tar.gz"
-  sha256 "39ea024ff76f92ad200ab02854ee6a0f6ce1183a2e8b7803029128ef7b5f22bf"
+  url "https://github.com/kylebrowning/BLESwiftCLI/archive/refs/tags/1.1.0.tar.gz"
+  sha256 "168843ded0894723e1cd0ec86d21664859c4d34976cf2a9d5d43d8297505e15c"
   license "Apache-2.0"
   head "https://github.com/kylebrowning/BLESwiftCLI.git", branch: "main"
 
