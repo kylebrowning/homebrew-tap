@@ -3,6 +3,7 @@ class Ble < Formula
   homepage "https://github.com/kylebrowning/BLESwiftCLI"
   url "https://github.com/kylebrowning/BLESwiftCLI/archive/refs/tags/1.0.0.tar.gz"
   sha256 "5df25f087b123f49582dcb4c5e7064ac310d337eeeb44cf9ab0302e9509f46bc"
+  license "Apache-2.0"
   head "https://github.com/kylebrowning/BLESwiftCLI.git", branch: "main"
 
   depends_on xcode: ["26.0", :build]
